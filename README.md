@@ -5,8 +5,9 @@ This GitHub repository contains a collection of my solutions and approaches to t
 
 As I tackle each problem, I aim to document my thought process, approach and code implementation, making this repository a valuable resource for others interested in sharpening their coding abilities and learning from different problem-solving techniques.
 
-## List of Questions
-(along with the company name, designated difficulty and a short description)
+## List of Questions 
+<sup>(along with the company name, designated difficulty and a short description)</sup>
+
 1. **Google** - [Easy](https://github.com/SohhamSeal/Daily-Coding-Problem/tree/main/Day%20%231%20-%20Google)
    - Given a list of numbers and a number k, return whether any two numbers from the list add up to k.
 3. **Uber** - [Hard](https://github.com/SohhamSeal/Daily-Coding-Problem/tree/main/Day%20%232%20-%20Uber)
