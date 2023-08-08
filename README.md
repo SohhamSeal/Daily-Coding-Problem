@@ -7,8 +7,7 @@ As I tackle each problem, I aim to document my thought process, approach and cod
 
 ## Acknowledgments
 A special thanks to Daily Coding Problems for providing the coding challenges that inspired this repository. Their platform offers a fantastic opportunity to stay sharp and continue learning through daily coding practice.
-```
 
+Individuals who are interested can sign up for the daily coding challenges on the [Daily Coding Problems platform](https://www.dailycodingproblem.com/).
 
-```
-> NOTE: This repository is a template and will be updated with the actual problem solutions as I progress in solving the Daily Coding Problems.
+> NOTE: This repository is a continuous process and will be updated with the problem solutions as I progress in solving the Daily Coding Problems.
