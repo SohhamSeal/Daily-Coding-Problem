@@ -10,18 +10,20 @@ As I tackle each problem, I aim to document my thought process, approach and cod
 
 1. **Google** - [Easy](https://github.com/SohhamSeal/Daily-Coding-Problem/tree/main/Day%20%231%20-%20Google)
    - Given a list of numbers and a number k, return whether any two numbers from the list add up to k.
-3. **Uber** - [Hard](https://github.com/SohhamSeal/Daily-Coding-Problem/tree/main/Day%20%232%20-%20Uber)
+2. **Uber** - [Hard](https://github.com/SohhamSeal/Daily-Coding-Problem/tree/main/Day%20%232%20-%20Uber)
    - Given an array of integers, return a new array such that each element at index i of the new array is the product of all the numbers in the original array except the one at i.
-5. **Google** - [Medium](https://github.com/SohhamSeal/Daily-Coding-Problem/tree/main/Day%20%233%20-%20Google)
+3. **Google** - [Medium](https://github.com/SohhamSeal/Daily-Coding-Problem/tree/main/Day%20%233%20-%20Google)
    - Given the root to a binary tree, implement serialize(root), which serializes the tree into a string and deserialize(s), which deserializes the string back into the tree.
-7. **Stripe** - [Hard](https://github.com/SohhamSeal/Daily-Coding-Problem/tree/main/Day%20%234%20-%20Stripe)
+4. **Stripe** - [Hard](https://github.com/SohhamSeal/Daily-Coding-Problem/tree/main/Day%20%234%20-%20Stripe)
    - Given an array of integers, find the first missing positive integer in linear time and constant space.
-9. **Jane Street** - [Medium](https://github.com/SohhamSeal/Daily-Coding-Problem/tree/main/Day%20%235%20-%20Jane%20Street)
+5. **Jane Street** - [Medium](https://github.com/SohhamSeal/Daily-Coding-Problem/tree/main/Day%20%235%20-%20Jane%20Street)
     - Extract of functional programming.
-11. **Google** - [Hard](https://github.com/SohhamSeal/Daily-Coding-Problem/tree/main/Day%20%236%20-%20Google)
+6. **Google** - [Hard](https://github.com/SohhamSeal/Daily-Coding-Problem/tree/main/Day%20%236%20-%20Google)
     - Implement a XOR Linked List.
-13. **Facebook** - [Medium](https://github.com/SohhamSeal/Daily-Coding-Problem/tree/main/Day%20%237%20-%20Facebook)
+7. **Facebook** - [Medium](https://github.com/SohhamSeal/Daily-Coding-Problem/tree/main/Day%20%237%20-%20Facebook)
     - Given the mapping a = 1, b = 2, ... z = 26, and an encoded message, count the number of ways it can be decoded.
+8. **Google** - [Easy](https://github.com/SohhamSeal/Daily-Coding-Problem/tree/main/Day%20%238%20-%20Google)
+    - Given the root to a binary tree, count the number of unival subtrees.
 
 ## Acknowledgments
 A special thanks to Daily Coding Problems for providing the coding challenges that inspired this repository. Their platform offers a fantastic opportunity to stay sharp and continue learning through daily coding practice.
