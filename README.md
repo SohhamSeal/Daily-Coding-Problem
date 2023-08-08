@@ -7,13 +7,13 @@ As I tackle each problem, I aim to document my thought process, approach and cod
 
 ## List of Questions
 (along with the company name, designated difficulty and a short description)
-1. Google [Easy]() - Given a list of numbers and a number k, return whether any two numbers from the list add up to k.
-2. Uber [Hard] - Given an array of integers, return a new array such that each element at index i of the new array is the product of all the numbers in the original array except the one at i.
-3. Google [Medium] - Given the root to a binary tree, implement serialize(root), which serializes the tree into a string and deserialize(s), which deserializes the string back into the tree.
-4. Stripe [Hard] - Given an array of integers, find the first missing positive integer in linear time and constant space.
-5. Jane Street [Medium] - Extract of functional programming.
-6. Google [Hard] - Implement a XOR Linked List.
-7. Facebook [Medium] - Given the mapping a = 1, b = 2, ... z = 26, and an encoded message, count the number of ways it can be decoded.
+1. Google [Easy](https://github.com/SohhamSeal/Daily-Coding-Problem/tree/main/Day%20%231%20-%20Google) - Given a list of numbers and a number k, return whether any two numbers from the list add up to k.
+2. Uber [Hard](https://github.com/SohhamSeal/Daily-Coding-Problem/tree/main/Day%20%231%20-%20Google) - Given an array of integers, return a new array such that each element at index i of the new array is the product of all the numbers in the original array except the one at i.
+3. Google [Medium](https://github.com/SohhamSeal/Daily-Coding-Problem/tree/main/Day%20%231%20-%20Google) - Given the root to a binary tree, implement serialize(root), which serializes the tree into a string and deserialize(s), which deserializes the string back into the tree.
+4. Stripe [Hard](https://github.com/SohhamSeal/Daily-Coding-Problem/tree/main/Day%20%231%20-%20Google) - Given an array of integers, find the first missing positive integer in linear time and constant space.
+5. Jane Street [Medium](https://github.com/SohhamSeal/Daily-Coding-Problem/tree/main/Day%20%231%20-%20Google) - Extract of functional programming.
+6. Google [Hard](https://github.com/SohhamSeal/Daily-Coding-Problem/tree/main/Day%20%231%20-%20Google) - Implement a XOR Linked List.
+7. Facebook [Medium](https://github.com/SohhamSeal/Daily-Coding-Problem/tree/main/Day%20%231%20-%20Google)- Given the mapping a = 1, b = 2, ... z = 26, and an encoded message, count the number of ways it can be decoded.
 
 ## Acknowledgments
 A special thanks to Daily Coding Problems for providing the coding challenges that inspired this repository. Their platform offers a fantastic opportunity to stay sharp and continue learning through daily coding practice.
