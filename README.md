@@ -27,7 +27,7 @@ As I tackle each problem, I aim to document my thought process, approach and cod
 9. **Airbnb** - [Hard]()
     - Given a list of integers, write a function that returns the largest sum of non-adjacent numbers. Numbers can be 0 or negative.
 
-## Acknowledgments
+## Acknowledgement
 A special thanks to Daily Coding Problems for providing the coding challenges that inspired this repository. Their platform offers a fantastic opportunity to stay sharp and continue learning through daily coding practice.
 
 Individuals who are interested can sign up for the daily coding challenges on the [Daily Coding Problems platform](https://www.dailycodingproblem.com/).
