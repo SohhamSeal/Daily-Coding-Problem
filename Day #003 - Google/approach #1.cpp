@@ -97,7 +97,7 @@ public:
         cout << "Serialized tree: " << s << endl;
         tree* nroot=newNode(s[0]-'0');
         deserialize(nroot,s,0);
-        cout << "Inorder of deserialized tree: ";
+        cout << "\nInorder of deserialized tree: ";
         display(nroot);
     }
 };
