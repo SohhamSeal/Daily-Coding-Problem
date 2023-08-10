@@ -24,6 +24,8 @@ As I tackle each problem, I aim to document my thought process, approach and cod
     - Given the mapping a = 1, b = 2, ... z = 26, and an encoded message, count the number of ways it can be decoded.
 8. **Google** - [Easy](https://github.com/SohhamSeal/Daily-Coding-Problem/tree/main/Day%20%238%20-%20Google)
     - Given the root to a binary tree, count the number of unival subtrees.
+9. **Airbnb** - [Hard]()
+    - Given a list of integers, write a function that returns the largest sum of non-adjacent numbers. Numbers can be 0 or negative.
 
 ## Acknowledgments
 A special thanks to Daily Coding Problems for providing the coding challenges that inspired this repository. Their platform offers a fantastic opportunity to stay sharp and continue learning through daily coding practice.
