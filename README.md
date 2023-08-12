@@ -28,6 +28,8 @@ As I tackle each problem, I aim to document my thought process, approach and cod
     - Given a list of integers, write a function that returns the largest sum of non-adjacent numbers. Numbers can be 0 or negative.
 10. **Apple** - [Medium](https://github.com/SohhamSeal/Daily-Coding-Problem/tree/main/Day%20%23010%20-%20Apple)
     - Implement a job scheduler which takes in a function f and an integer n, and calls f after n milliseconds.
+11. **Twitter** - [Medium]()
+    - Implement an autocomplete system. That is, given a query string s and a set of all possible query strings, return all strings in the set that have s as a prefix.
 
 ## Acknowledgement
 A special thanks to Daily Coding Problems for providing the coding challenges that inspired this repository. Their platform offers a fantastic opportunity to stay sharp and continue learning through daily coding practice.
