@@ -30,6 +30,8 @@ As I tackle each problem, I aim to document my thought process, approach and cod
     - Implement a job scheduler which takes in a function f and an integer n, and calls f after n milliseconds.
 11. **Twitter** - [Medium](https://github.com/SohhamSeal/Daily-Coding-Problem/tree/main/Day%20%23011%20-%20Twitter)
     - Implement an autocomplete system. That is, given a query string s and a set of all possible query strings, return all strings in the set that have s as a prefix.
+12. **Amazon** - [Hard]()
+    - Given N, write a function that returns the number of unique ways you can climb the staircase in 1 or 2 steps, where the order of the steps matter.
 
 ## Acknowledgement
 A special thanks to Daily Coding Problems for providing the coding challenges that inspired this repository. Their platform offers a fantastic opportunity to stay sharp and continue learning through daily coding practice.
