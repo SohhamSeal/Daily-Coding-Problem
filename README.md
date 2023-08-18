@@ -32,6 +32,16 @@ As I tackle each problem, I aim to document my thought process, approach and cod
     - Implement an autocomplete system. That is, given a query string s and a set of all possible query strings, return all strings in the set that have s as a prefix.
 12. **Amazon** - [Hard](https://github.com/SohhamSeal/Daily-Coding-Problem/tree/main/Day%20%23012%20-%20Amazon)
     - Given N, write a function that returns the number of unique ways you can climb the staircase in 1 or 2 steps, where the order of the steps matter.
+13. **Amazon** - [Hard](https://github.com/SohhamSeal/Daily-Coding-Problem/tree/main/Day%20%23013%20-%20Amazon)
+    - Given an integer k and a string s, find the length of the longest substring that contains at most k distinct characters.
+14. **Google** - [Medium](https://github.com/SohhamSeal/Daily-Coding-Problem/tree/main/Day%20%23014%20-%20Google)
+    - The area of a circle is defined as πr^2. Estimate π to 3 decimal places using a Monte Carlo method.
+15. **Facebook** - [Medium](https://github.com/SohhamSeal/Daily-Coding-Problem/tree/main/Day%20%23015%20-%20Facebook)
+    - Given a stream of elements too large to store in memory, pick a random element from the stream with uniform probability.
+16. **Twitter** - [Easy](https://github.com/SohhamSeal/Daily-Coding-Problem/tree/main/Day%20%23016%20-%20Twitter)
+    - Implement a data structure to record the last N order ids in a log as efficiently as possible.
+17. **Google** - [Hard](https://github.com/SohhamSeal/Daily-Coding-Problem/tree/main/Day%20%23017%20-%20Google)
+    - Given a string representing the file system, return the length of the longest absolute path to a file in the abstracted file system.
 
 ## Acknowledgement
 A special thanks to Daily Coding Problems for providing the coding challenges that inspired this repository. Their platform offers a fantastic opportunity to stay sharp and continue learning through daily coding practice.
