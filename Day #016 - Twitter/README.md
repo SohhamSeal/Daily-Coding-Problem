@@ -1,6 +1,6 @@
 ![DCP-LOGO](https://github.com/SohhamSeal/Daily-Coding-Problem/blob/main/DCP.JPG?raw=true)
 
-## This problem was asked by Facebook.
+## This problem was asked by Twitter.
 
 You run an e-commerce website and want to record the last N order ids in a log. Implement a data structure to accomplish this, with the following API:
 
