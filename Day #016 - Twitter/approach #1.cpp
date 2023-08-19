@@ -3,30 +3,49 @@ using namespace std;
 
 class eCommerce{
     /*
-    using a circular queue (ring/circular buffer) implemented using a vector
+    using a circular queue (ring/circular buffer) implemented using an array
     This implementation requires:
     Time-> O(1)
     Space-> O(n): only the log
+    
+    **expecting proper inouts for the index**
     */
     
-    vector<int> *cq;
-    int front,rear;
+    int *cq;
+    int front,rear,size,count;
 public:
     eCommerce(int n)
     {
-        cq=new vector<int>(n);
+        cq=new int(n);
         front=-1;
         rear=-1;
+        size=n;
+        count=0;
     }
     
     void record(int ord_id)
     {
-        
+        if(front==-1)
+        {
+            front=0;
+            rear=0;
+        }
+        else if((count+1)<size)
+        {
+            rear++;
+            count++;
+        }
+        else
+        {
+            front=(front+1)%size;
+            rear=(rear+1)%size;
+        }
+        cq[rear]=ord_id;
     }
     
     int get_last(int i)
     {
-        return -1;
+        return cq[(i+front)%size];
     }
     
     void driver()
@@ -35,7 +54,7 @@ public:
         int choice,val;
         do
         {
-            cout << "1>> Add an order_id to the log\n";
+            cout << "\n1>> Add an order_id to the log\n";
             cout << "2>> Get the ith last element from the log\n";
             cout << "Enter your choice: ";
             cin >> choice;
@@ -46,9 +65,9 @@ public:
                         record(val);
                         cout << "Order id successfully inserted!\n";
                         break;
-                case 2: cout << "Enter index i: ";
+                case 2: cout << "Enter index i(0-indexed): ";
                         cin >> val;
-                        cout << "Value at " << val << "= " << get_last(val);
+                        cout << "Value at " << val << " = " << get_last(val) << endl;
                         break;
                 default: cout << "\nWrong choice!!\n";
             }
