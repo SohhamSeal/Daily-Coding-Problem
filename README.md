@@ -42,6 +42,8 @@ As I tackle each problem, I aim to document my thought process, approach and cod
     - Implement a data structure to record the last N order ids in a log as efficiently as possible.
 17. **Google** - [Hard](https://github.com/SohhamSeal/Daily-Coding-Problem/tree/main/Day%20%23017%20-%20Google)
     - Given a string representing the file system, return the length of the longest absolute path to a file in the abstracted file system.
+18. **Google** - [Hard](https://github.com/SohhamSeal/Daily-Coding-Problem/tree/main/Day%20%23018%20-%20Google)
+    - Given an array of integers and a number k, where 1 <= k <= length of the array, compute the maximum values of each subarray of length k.
 
 ## Acknowledgement
 A special thanks to Daily Coding Problems for providing the coding challenges that inspired this repository. Their platform offers a fantastic opportunity to stay sharp and continue learning through daily coding practice.
